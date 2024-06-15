@@ -1,0 +1,52 @@
+Strike Showdown
+
+Make sure that you run these commands:
+dotnet add package Microsoft.EntityFrameworkCore -v 7.0.5 
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer -v 7.0.3    
+dotnet add package Microsoft.EntityFrameworkCore.Design -v 7.0.3  
+dotnet add package Microsoft.EntityFrameworkCore.Tools -v 7.0.3   
+dotnet add package Microsoft.AspNetCore.SignalR.Client 
+
+## Create - [HttpPost]
+
+    **User Controller:** 
+
+        - Add User
+        - Login User
+
+    **Match Controller:**
+
+        - Add 1v1 Challenge
+        - Add Practice Session
+
+## Read - [HttpGet]
+
+    **User Controller:**
+
+        - Get User Information
+        - Get User By Most Recent Win
+
+    **Match Controller:**
+
+        - Get Matches by filter (Location, Most Recent, 1v1 Match, 1v1 Session, etc)
+        - Get 1v1 Challenge Information
+        - Get Practice Session Information
+
+
+## Update / Delete
+
+    **User Controller:**
+
+        - Edit User Information
+        - Edit Location
+
+** Match Controller: **
+
+        - Edit Match Information
+        - Edit Session Information
+
+username :
+AdminLogin
+
+password :
+izQv3i5YuPkbJ5Y
