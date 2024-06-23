@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Strike Showdown Back End.props" />
+</Project>

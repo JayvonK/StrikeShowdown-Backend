@@ -45,8 +45,8 @@ dotnet add package Microsoft.AspNetCore.SignalR.Client
         - Edit Match Information
         - Edit Session Information
 
-username :
-AdminLogin
+Username :
+SS
 
-password :
-izQv3i5YuPkbJ5Y
+Password :
+WeLoveBowling123!
